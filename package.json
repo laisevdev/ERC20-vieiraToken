@@ -1,0 +1,24 @@
+{
+  "name": "deterministic-deploy-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.14.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.7"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "bignumber.js": "^9.1.1",
+    "dotenv": "^16.0.3"
+  }
+}
